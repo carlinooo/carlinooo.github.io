@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PKVKG3FLPW.com.lingbo.car",
+                "paths": [ "/app/*"]
+            }
+        ]
+    }
+}
